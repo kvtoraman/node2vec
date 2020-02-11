@@ -1,3 +1,4 @@
+*.emb
 *.pyc
 .DS_Store
 target
