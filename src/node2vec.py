@@ -1,3 +1,4 @@
+from __future__ import print_function
 import numpy as np
 import networkx as nx
 import random
@@ -159,4 +160,3 @@ def alias_draw(J, q):
         return kk
     else:
         return J[kk]
-

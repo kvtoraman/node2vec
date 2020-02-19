@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 emb/
+=======
+*.emb
+>>>>>>> a1994f4078813dbe443ff4b77a341381e4589e12
 *.pyc
 .DS_Store
 target
